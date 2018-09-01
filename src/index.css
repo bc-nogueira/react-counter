@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center
+}
+
+.operationBtn {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px 10px;
+  width: 10px;
+  cursor: pointer;
+}
+
+.buttonsDiv {
+  margin-top: 15px;
+}
+
+.buttonsDiv button {
+  width: 120px;
+}
